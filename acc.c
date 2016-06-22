@@ -128,6 +128,7 @@ static void DisplayBanner(void)
 	fprintf(stderr, "Some additions by Michael \"Necromage\" Weber\n");
 	fprintf(stderr, "Error reporting improvements and limit expansion by Ty Halderman\n");
 	fprintf(stderr, "Include paths added by Pascal vd Heiden\n");
+    fprintf(stderr, "Function count limit increased to %d by Korshun\n", MAX_FUNCTION_COUNT);
 }
 
 //==========================================================================
